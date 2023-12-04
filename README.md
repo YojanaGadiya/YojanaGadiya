@@ -11,7 +11,7 @@
   - [pyBiodatafuse](https://pypi.org/project/pyBiodatafuse/)
 -  I’m looking to collaborate on ...
 - 💬 Ask me about: FAIR, Knowledge graphs, Patent mining
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yojana-gadiya-477739113/), [X](https://twitter.com/YojanaGadiya)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yojana-gadiya-477739113/), [X](https://twitter.com/YojanaGadiya), [Google Scholar](https://scholar.google.com/citations?user=LDgRXckAAAAJ&hl=en)
 - 😄 Pronouns: She/her
 
 # GitHub overview
