@@ -3,8 +3,8 @@
 ![Profile Hits](https://rushter.com/counter.svg)
 
 
-- 🔭 I’m currently working at @[Fraunhofer ITMP](https://www.itmp.fraunhofer.de/) as a data scientist, @[EnvedaBiosciences](https://www.envedabio.com/) as a Computational Biologists, and a doctorate researcher at @[UniBonn](https://www.b-it-center.de/)
-- 👯 I'm part of several EU projects: [FAIRplus](https://fairplus-project.eu/), [REMEDi4ALL](https://remedi4all.org/), [AMR Accelerator](https://amr-accelerator.eu/)
+- 🔭 I’m currently working as a data scientist at @[Enveda](https://www.envedabio.com/)
+- 👯 I have been part of several EU/IMI projects: [FAIRplus](https://fairplus-project.eu/), [REMEDi4ALL](https://remedi4all.org/), [AMR Accelerator](https://amr-accelerator.eu/)
 - 🤓 I'm also a Chemoinformatics FAIR Data Champion at [FAIRsharing.org](https://fairsharing.org/)
 - 🌱 I love developing Python packages. My works include
   - [PEMT](https://pypi.org/project/PEMT/) - a pharmaceutical patent mining tool
@@ -16,7 +16,6 @@
 ### Expertise preview
 
 <p>
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yojanagadiya&hide=contribs,issues&show_icons=true&hide_border=true" alt="Yojana's github stats" />
   </a>
 
