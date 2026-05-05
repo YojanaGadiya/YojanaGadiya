@@ -4,14 +4,16 @@
 
 
 - 🔭 I’m currently working as a data scientist at @[Enveda](https://www.envedabio.com/)
-- 👯 I have been part of several EU/IMI projects: [FAIRplus](https://fairplus-project.eu/), [REMEDi4ALL](https://remedi4all.org/), [AMR Accelerator](https://amr-accelerator.eu/)
-- 🤓 I'm also a Chemoinformatics FAIR Data Champion at [FAIRsharing.org](https://fairsharing.org/)
-- 🌱 I love developing Python packages. My works include
+- 😄 Pronouns: She/her
+- 💻 Currently focusing on data aggregation and ETL pipelines for metabolomics data for drug discovery and development
+- 🌱 I love developing Python packages for community use. My works include
   - [PEMT](https://pypi.org/project/PEMT/) - a pharmaceutical patent mining tool
   - [pyBiodatafuse](https://pypi.org/project/pyBiodatafuse/) - a modular query biomedical data ingestion pipeline 
 - 💬 Ask me about: FAIR, Knowledge graphs, Patent mining, Chemoinformatics
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yojana-gadiya-477739113/), [X](https://twitter.com/YojanaGadiya), [Google Scholar](https://scholar.google.com/citations?user=LDgRXckAAAAJ&hl=en)
-- 😄 Pronouns: She/her
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yojana-gadiya-477739113/), [Google Scholar](https://scholar.google.com/citations?user=LDgRXckAAAAJ&hl=en)
+- - 👯 I have been part of several EU/IMI projects in my previous role: [FAIRplus](https://fairplus-project.eu/), [REMEDi4ALL](https://remedi4all.org/), [AMR Accelerator](https://amr-accelerator.eu/)
+- 🤓 I was also a Chemoinformatics FAIR Data Champion at [FAIRsharing.org](https://fairsharing.org/)
+
 
 ### Expertise preview
 
@@ -28,8 +30,4 @@
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) 
 
 <p>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojanagadiya&layout=donut-vertical&hide_border=true" /></a>
--->
 
